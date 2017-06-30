@@ -1,3 +1,3 @@
 # Bejeweled
 
-Simple Bejeweled clone made for a first year pragramming course
+Simple Bejeweled clone made for a first year programming course
